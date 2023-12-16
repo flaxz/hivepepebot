@@ -1,0 +1,1 @@
+<center><p>@{{target_account}}! I just staked 1 <b>${{token_name}}</b> to your account on behalf of @ {{author_account}}. <sub>({{today_gift_count}}/{{max_daily_gifts}})</sub></p>
